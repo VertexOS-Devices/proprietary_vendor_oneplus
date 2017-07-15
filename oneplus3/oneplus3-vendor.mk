@@ -846,7 +846,9 @@ PRODUCT_PACKAGES += \
     ims \
     imssettings \
     qcnvitems \
-    qcrilhook
+    qcrilhook \
+	izat.xt.srv \
+	qti-telephony-common \
 
 # Perf
 PRODUCT_PACKAGES += \
