@@ -850,6 +850,10 @@ PRODUCT_PACKAGES += \
 	izat.xt.srv \
 	qti-telephony-common \
 
+# Embryo
+PRODUCT_PACKAGES += \
+    embryo
+
 # Perf
 PRODUCT_PACKAGES += \
     com.qualcomm.qti.Performance.xml \
