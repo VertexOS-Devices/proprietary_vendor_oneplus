@@ -187,6 +187,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libchromatix_imx398_postproc.so:system/vendor/lib/libchromatix_imx398_postproc.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libchromatix_imx398_preview_1080p_cpp.so:system/vendor/lib/libchromatix_imx398_preview_1080p_cpp.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libcvface_api.so:system/vendor/lib/libcvface_api.so \
+    vendor/oneplus/cheeseburger/proprietary/vendor/lib/libdczoom.so:system/vendor/lib/libdczoom.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libdualcameraddm.so:system/vendor/lib/libdualcameraddm.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libfiltergenerator.so:system/vendor/lib/libfiltergenerator.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libflash_pmic.so:system/vendor/lib/libflash_pmic.so \
@@ -500,6 +501,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libfastcvadsp_stub.so:system/vendor/lib/libfastcvadsp_stub.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
+    vendor/oneplus/cheeseburger/proprietary/vendor/lib/libhwdaphal.so:system/vendor/lib/libhwdaphal.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libllvm-glnext.so:system/vendor/lib/libllvm-glnext.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
@@ -662,6 +664,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib64/libgdtap.so:system/vendor/lib64/libgdtap.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib64/libgeofence.so:system/vendor/lib64/libgeofence.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib64/libgsl.so:system/vendor/lib64/libgsl.so \
+    vendor/oneplus/cheeseburger/proprietary/vendor/lib64/libhwdaphal.so:system/vendor/lib64/libhwdaphal.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib64/libidl.so:system/vendor/lib64/libidl.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib64/libimscamera_jni.so:system/vendor/lib64/libimscamera_jni.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib64/libimsmedia_jni.so:system/vendor/lib64/libimsmedia_jni.so \
